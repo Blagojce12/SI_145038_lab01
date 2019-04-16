@@ -1,0 +1,5 @@
+commit 3ecc2fb501e83d9cd9a2735c1f051e1c3fd28142 (HEAD -> logs, origin/bugFix1, bugFix1)
+Author: unknown <arsov.blagojche@students.finki.ukim.mk>
+Date:   Tue Apr 16 16:25:09 2019 +0200
+
+    Initial commit
